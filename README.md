@@ -6,3 +6,7 @@
 ##### Focando atualmente em aprender Power BI para a análise de dados de empresa, algo que nos dias de hoje está em falta, busco ingressar cedo nessa parte do mercado de trabalho para me adaptar nas novas linguagens e tipos de análises que podem surgir.
 ----------------------------------------------------------------------------------------------------------------
 ### 🏆 Conquistas 🏆
+* ###### *Alcançar o N4 em Japonês*
+* ###### *Acabar curso de cores fornecido pela Bradesco*
+* ###### *Finalizar cursos de Japonês*
+* ###### *Certificado do Hellow (alocado no final do portfólio)*
