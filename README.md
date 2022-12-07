@@ -11,6 +11,7 @@
 * ###### *Finalizar cursos de Japonês*
 * ###### *Certificado do Hellow (alocado no final do portfólio)*
 ----------------------------------------------------------------------------------------------------------------
-![Design sem nome](https://user-images.githubusercontent.com/102531193/206310291-7836a52d-271c-4757-82e4-244d470a5b12.png)
+![Design sem nome (1)](https://user-images.githubusercontent.com/102531193/206310383-013f65db-3eb1-498d-af8b-b0acd6b98eae.png)
+
 
 
