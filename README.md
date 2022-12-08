@@ -9,7 +9,7 @@
 * ###### *Alcançar o N4 em Japonês*
 * ###### *Acabar curso de cores fornecido pela Bradesco*
 * ###### *Finalizar cursos de Japonês*
-* ###### *Certificado do Hellow (alocado no final do portfólio)*
+* ###### *Certificado do Hellow*
 ----------------------------------------------------------------------------------------------------------------
 ![Design sem nome (1)](https://user-images.githubusercontent.com/102531193/206310383-013f65db-3eb1-498d-af8b-b0acd6b98eae.png)
 
