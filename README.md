@@ -1,4 +1,4 @@
-![Design sem nome (1)](https://user-images.githubusercontent.com/102531193/206239183-56b9a854-dcb6-4a51-b60c-0572014f0c05.gif)
+![Vídeo sem título ‐ Feito com o Clipchamp](https://user-images.githubusercontent.com/102531193/224748743-3dac849d-f9df-44bd-a36b-1ada7805386b.gif)
 ----------------------------------------------------------------------------------------------------------------
 ### 🤔 Quem sou 🤔
 ##### Me chamo Gabriel, tenho 17 anos e estudo atualmente no Sesi Senai-SJ. Aproveito o tempo livre para estudar e programar em Python e SQL visto no canal [Curso em vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo), além de aprender Inglês no colégio e Japonês em cursos pagos na busca de alcançar a fluência de ambos.
@@ -11,7 +11,7 @@
 * ###### *Finalizar cursos de Japonês*
 * ###### *Certificado do Hellow*
 ----------------------------------------------------------------------------------------------------------------
-![Design sem nome (1)](https://user-images.githubusercontent.com/102531193/206310383-013f65db-3eb1-498d-af8b-b0acd6b98eae.png)
+
 
 
 
