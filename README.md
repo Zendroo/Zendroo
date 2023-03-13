@@ -1,4 +1,5 @@
-![Vídeo sem título ‐ Feito com o Clipchamp](https://user-images.githubusercontent.com/102531193/224748743-3dac849d-f9df-44bd-a36b-1ada7805386b.gif)
+
+https://user-images.githubusercontent.com/102531193/224749582-58b36a88-71fd-4406-b38b-26621494e570.mp4
 ----------------------------------------------------------------------------------------------------------------
 ### 🤔 Quem sou 🤔
 ##### Me chamo Gabriel, tenho 17 anos e estudo atualmente no Sesi Senai-SJ. Aproveito o tempo livre para estudar e programar em Python e SQL visto no canal [Curso em vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo), além de aprender Inglês no colégio e Japonês em cursos pagos na busca de alcançar a fluência de ambos.
