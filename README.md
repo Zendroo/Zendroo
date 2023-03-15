@@ -1,5 +1,5 @@
 
-![Vídeo sem título ‐ Feito com o Clipchamp](https://user-images.githubusercontent.com/102531193/224750222-616e308f-09f8-4032-8d69-3149fe8b3a7b.gif)
+![ZENDRONO (1)](https://user-images.githubusercontent.com/102531193/225299566-b1a0ad05-6246-4913-befa-50b68f897871.png)
 ----------------------------------------------------------------------------------------------------------------
 ### 🤔 Quem sou 🤔
 ##### Me chamo Gabriel, tenho 17 anos e estudo atualmente no Sesi Senai-SJ. Aproveito o tempo livre para estudar e programar em Python e SQL visto no canal [Curso em vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo), além de aprender Inglês no colégio e Japonês em cursos pagos na busca de alcançar a fluência de ambos.
