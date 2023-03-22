@@ -1,5 +1,5 @@
 
-![ZENDRONO (1)](https://user-images.githubusercontent.com/102531193/225299566-b1a0ad05-6246-4913-befa-50b68f897871.png)
+![ZENDRONO (2)](https://user-images.githubusercontent.com/102531193/226888945-fcf3f4a6-aaee-419a-bb7f-568f1bdb92f7.png)
 ----------------------------------------------------------------------------------------------------------------
 ### 🤔 Quem sou 🤔
 ##### Me chamo Gabriel, tenho 17 anos e estudo atualmente no Sesi Senai-SJ. Aproveito o tempo livre para estudar e programar em Python e SQL visto no canal [Curso em vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo), além de aprender Inglês no colégio e Japonês em cursos pagos na busca de alcançar a fluência de ambos.
