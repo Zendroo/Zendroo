@@ -1,5 +1,5 @@
 
-![ZENDRONO (3)](https://user-images.githubusercontent.com/102531193/226889297-f4778959-84f6-4c96-8b34-ccd0c7ba1a55.png)
+![is yours to conquer](https://github.com/Zendroo/Zendroo/assets/102531193/56651f09-01b0-4363-9d04-6987a1c84694)
 ----------------------------------------------------------------------------------------------------------------
 ### 🤔 Quem sou 🤔
 ##### Me chamo Gabriel, tenho 18 anos e estudo atualmente no Sesi Senai-SJ. Aproveito o tempo livre para estudar no canal [Curso em vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo), além de aprender Inglês no colégio e Japonês em cursos pagos na busca de alcançar a fluência de ambos.
